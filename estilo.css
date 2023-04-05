@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: valorant;
+    src: url(Valorant\ Font.ttf);
+}
+
+
+li{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Alkatra', cursive;
+}
+
+td{
+    background-color: bisque;
+    font-size: 20px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+body{
+    font-family: valorant;
+}
+
+#letrafea{
+    font-family: Arial, Helvetica, sans-serif;
+}
