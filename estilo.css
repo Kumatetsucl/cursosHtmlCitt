@@ -1,14 +1,6 @@
-
 @font-face {
     font-family: valorant;
     src: url(Valorant\ Font.ttf);
-}
-
-
-li{
-    background-color: aqua;
-    font-size: 20px;
-    font-family: 'Alkatra', cursive;
 }
 
 td{
@@ -19,8 +11,23 @@ td{
 
 body{
     font-family: valorant;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr;
 }
 
 #letrafea{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.cualquiera{
+    background-color: bisque;
+    font-size: 20px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+
+img{
+    width: 75%; 
+    height: 75%;
 }
